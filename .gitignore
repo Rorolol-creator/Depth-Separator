@@ -1,0 +1,4 @@
+libgstcudafilter.so
+build/
+.envrc
+.direnv
